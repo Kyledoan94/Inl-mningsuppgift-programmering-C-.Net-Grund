@@ -1,0 +1,14 @@
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\bin\Debug\net10.0\InlämningsUppgift.exe
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\bin\Debug\net10.0\InlämningsUppgift.deps.json
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\bin\Debug\net10.0\InlämningsUppgift.runtimeconfig.json
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\bin\Debug\net10.0\InlämningsUppgift.dll
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\bin\Debug\net10.0\InlämningsUppgift.pdb
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\obj\Debug\net10.0\InlämningsUppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\obj\Debug\net10.0\InlämningsUppgift.AssemblyInfoInputs.cache
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\obj\Debug\net10.0\InlämningsUppgift.AssemblyInfo.cs
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\obj\Debug\net10.0\InlämningsUppgift.csproj.CoreCompileInputs.cache
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\obj\Debug\net10.0\InlämningsUppgift.dll
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\obj\Debug\net10.0\refint\InlämningsUppgift.dll
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\obj\Debug\net10.0\InlämningsUppgift.pdb
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\obj\Debug\net10.0\InlämningsUppgift.genruntimeconfig.cache
+C:\Users\KyleSama\Documents\InlämningsUppgift\InlämningsUppgift\obj\Debug\net10.0\ref\InlämningsUppgift.dll
